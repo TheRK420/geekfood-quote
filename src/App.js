@@ -6,9 +6,7 @@ import PaymentScreen from './screen/PaymentScreen';
 function App() {
   return (
     <> 
-      {/* <LandingScreen/> */}
       <QuoteScreen/>
-      {/* <PaymentScreen/> */}
     </>
   );
 }
